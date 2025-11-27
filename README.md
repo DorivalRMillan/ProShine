@@ -43,7 +43,7 @@ Este repositório contém os artefatos de Modelagem (DER Normalizado) e os scrip
 ### 📐 Modelo de Dados (DER Revisado em 2FN/3FN)
 
 O projeto utiliza um **Modelo Lógico Normalizado**.
-
+![Modelo Lógico Normalizado](Modelo Lógico Normalizado.png)
 
 **Entidades Principais:**
 * `CLIENTE`
